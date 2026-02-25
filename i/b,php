@@ -2,11 +2,11 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>สรอัฐ น้ำใส</title>
+<title>ธนชา พรหมบุตร(ต้นน้ำ)</title>
 </head>
 
 <body>
-<h1> สวัสดี งาน i -- สรอัฐ น้ำใส (กอฟ) </h1>
+<h1> สวัสดี งาน i -- ธนชา พรหมบุตร(ต้นน้ำ) </h1>
 
 <form method="post" enctype="multipart/form-data">
     ชื่อจังหวัด <input type="text" name="pname" autofocus required>
